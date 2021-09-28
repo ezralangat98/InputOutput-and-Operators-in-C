@@ -6,7 +6,7 @@ int main(){
     int x;
     int y;
 
-    //Prompt for name
+    //Prompting for Users Name
     printf("Enter your name: \n");
     scanf("%s", &name);
 
