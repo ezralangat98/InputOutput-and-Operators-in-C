@@ -3,7 +3,8 @@
 int main(){
 
     char name[100];
-    int x, y;
+    int x;
+    int y;
 
     //Prompt for name
     printf("Enter your name: \n");
